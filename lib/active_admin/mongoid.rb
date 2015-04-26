@@ -4,7 +4,6 @@ require 'mongoid'
 require 'ransack'
 # require 'active_admin/mongoid/engine'
 require 'active_admin'
-require 'devise'
 require 'rails'
 
 # require 'active_admin/mongoid/comments'
